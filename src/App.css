@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+.Border{
+  border: 2px solid black;
+}
+.text{
+  white-space: nowrap; 
+  width: 516px; 
+  overflow: hidden;
+  text-overflow: ellipsis; 
+  /* border: 1px solid #000000; */
+}
+.b{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.btn-size{
+  width: 89px;
+}
+.next_prev_btn{
+  height: 40px;
+}
+.edit{
+  display: none;
+}
+#update{
+  display: none;
+}
+
