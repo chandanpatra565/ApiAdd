@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ApiAdd/static/css/main.b37c8e80.css",
+    "main.js": "/ApiAdd/static/js/main.c119583d.js",
+    "index.html": "/ApiAdd/index.html",
+    "main.b37c8e80.css.map": "/ApiAdd/static/css/main.b37c8e80.css.map",
+    "main.c119583d.js.map": "/ApiAdd/static/js/main.c119583d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b37c8e80.css",
+    "static/js/main.c119583d.js"
+  ]
+}
